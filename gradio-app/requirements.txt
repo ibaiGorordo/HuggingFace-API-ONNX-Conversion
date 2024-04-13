@@ -1,0 +1,4 @@
+ultralytics
+gradio
+onnx
+onnx-simplifier
